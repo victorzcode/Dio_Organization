@@ -1,0 +1,6 @@
+link para download do git: https://git-scm.com/downloads
+
+Git Bash é um terminal extendido para otimizar o uso do git
+
+O git é um programa de versionamento distribuido
+ 
